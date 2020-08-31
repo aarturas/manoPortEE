@@ -251,7 +251,7 @@ main {
   height: 60px; }
 
 button {
-  position: sticky;
+  position: relative;
   padding: 0 15px 0 15px;
   bottom: 20%;
   left: 50%;
