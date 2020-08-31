@@ -252,12 +252,12 @@ main {
 
 button {
   position: sticky;
-  bottom: 10%;
+  padding: 0 15px 0 15px;
+  bottom: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
   background: none;
   color: #ccc;
-  width: 140px;
   height: 40px;
   border: 1px solid #fff;
   font-size: 18px;
